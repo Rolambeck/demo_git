@@ -1,5 +1,5 @@
-toi da tao project tren branch nay, master
+Toi da tao project tren branch nay, master
 ------------------------------------------
-toi da tao branch develop.
+Toi da tao branch develop.
 ------------------------------------------
-toi la branch fixbug
+Toi la branch fixbug
